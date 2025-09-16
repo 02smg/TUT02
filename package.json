@@ -1,0 +1,13 @@
+{
+  "name": "tut02-readme-updater",
+  "version": "1.0.0",
+  "description": "GitHub README 자동 업데이트 도구",
+  "main": "update-readme.js",
+  "scripts": {
+    "update-readme": "node update-readme.js",
+    "update": "node update-readme.js"
+  },
+  "keywords": ["github", "readme", "update", "markdown"],
+  "author": "TUT02",
+  "license": "MIT"
+}
